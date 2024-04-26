@@ -1,0 +1,78 @@
+body {
+    font-family: Raleway;
+    background-color: black;
+    color:white;
+    
+}
+
+.navbar {
+    position: fixed;
+    background-color: transparent;
+    font-family: "Roboto", sans-serif;
+    width: 100vw;
+    z-index: 2;
+
+}
+
+.bg-black {
+    background-color: black;
+    
+}
+
+h4 {
+    text-transform: uppercase;
+    font-family: "Roboto";
+}
+
+.fa-icon {
+    color: white;
+    width: 2em;
+}
+
+.destacard {
+    background: rgb(0, 170, 255);
+}
+
+.destacado_card {
+    background: rgb(0, 170, 255);
+}
+
+#destacados {
+    text-transform: uppercase;
+    font-family: "Roboto";
+    
+}
+
+#contacto h4 {
+    font-family: "Roboto";
+    font-weight: 52px;
+}
+
+.centro-div {
+    text-align: center;
+    background: rgb(0, 170, 255);
+}
+
+#Footer h4 {
+    font-family: "Roboto";
+}
+
+#Footer a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+/* .carousel-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    z-index: -2;
+}
+
+ */
